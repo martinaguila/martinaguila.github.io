@@ -1,4 +1,17 @@
+body {
+	padding: 75px;
+	background-image: url("port-bg.jpg");
+	width: 98%;
+}
 
-.wakoko {
-	color: red !important;
+.header-container{
+	padding: 0 150px 0 50px;
+}
+
+.name {
+	color: #b6b6b6;
+}
+
+.website-description{
+	color: #b6b6b6;
 }
